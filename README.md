@@ -12,3 +12,11 @@ This is a public API built using FastAPI that provides basic information.
 1. Clone this repository:
    ```bash
    git clone https://github.com/codewithaguek/stage_zero
+
+## Back links
+https://hng.tech/hire/python-developers
+https://hng.tech/hire/csharp-developers
+https://hng.tech/hire/golang-developers
+https://hng.tech/hire/php-developers
+https://hng.tech/hire/java-developers
+https://hng.tech/hire/nodejs-developers
