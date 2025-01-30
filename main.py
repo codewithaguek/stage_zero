@@ -21,5 +21,5 @@ def def_root():
 	return {
 	"email": "makueireng98@gmail.com",
 	"current_datetime": datetime.now(pytz.utc).isoformat() + "Z",
-	"github_link": "https://github.com/codewithaguek/stage_zero"
+	"github_url": "https://github.com/codewithaguek/stage_zero"
 	}
