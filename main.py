@@ -20,6 +20,6 @@ allow_credentials=True
 def def_root():
 	return {
 	"email": "makueireng98@gmail.com",
-	"current_datetime": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z",
+	"current_datetime": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
 	"github_url": "https://github.com/codewithaguek/stage_zero"
 	}
