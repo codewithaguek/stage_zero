@@ -20,6 +20,6 @@ allow_credentials=True
 def def_root():
 	return {
 	"email": "makueireng98@gmail.com",
-	"curr_datetime": datetime.now(pytz.utc).isoformat(),
+	"current_datetime": datetime.now(pytz.utc).isoformat() + "Z",
 	"github_link": "https://github.com/codewithaguek/stage_zero"
 	}
